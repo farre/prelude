@@ -1,0 +1,12 @@
+(prelude-require-packages
+ '(async
+   clang-format
+   dash
+   exec-path-from-shell
+   function-args
+   haskell-mode
+   helm-company
+   helm-ls-git
+   helm-proc
+   helm-swoop
+   web-mode))
